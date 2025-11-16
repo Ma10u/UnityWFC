@@ -110,5 +110,14 @@ La regénération d'un chunk peut avoir du mal à se résoudre, il faut des fois
 Les meshs des murs sont ouverts sur les côtés, il faudrait les refaire.
 
 ## **Lien vers le projet Unity / dépôt :**
+<<<<<<< HEAD:Miszczuk_Crenn-Durif - Journal avancement projet.md
 https://github.com/Ma10u/UnityWFC
 ---
+=======
+
+---
+
+## 💬 Notes et réflexions libres
+
+(Espace pour idées, croquis, remarques sur le WFC, les interactions, ou l’expérience utilisateur)
+>>>>>>> 8e51e6d94db6cce15d0a4b21ff7d4083fbd43700:README.md
