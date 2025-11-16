@@ -1,7 +1,7 @@
 # 🎮 Journal d’avancement — Projet “Generative Worlds”
 
 **Groupe :**  
-**Membres (2 ou 3 max):**  Miszczuk Ivan, Crenn-Durif Mael
+**Membres (2 ou 3 max):**  Miszczuk Ivan, Crenn-Durif Mael  
 **Thème choisi :** Médiéval
 
 ---
