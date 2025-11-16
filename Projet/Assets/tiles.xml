@@ -1,0 +1,24 @@
+<set>
+  <tiles>
+<tile name="Assets/Prefab/Wall" symmetry="X" weight="1.0"/>
+<tile name="Assets/Prefab/Wall 1" symmetry="X" weight="1.0"/>
+<tile name="Assets/Prefab/Tower" symmetry="X" weight="1.0"/>
+	</tiles>
+<neighbors>  <neighbor left="Assets/Prefab/Tower 0" right="Assets/Prefab/Wall 0"/>
+  <neighbor left="Assets/Prefab/Tower 1" right="Assets/Prefab/Wall 2"/>
+  <neighbor left="Assets/Prefab/Wall 0" right="Assets/Prefab/Wall 1 0"/>
+  <neighbor left="Assets/Prefab/Wall 1 0" right="Assets/Prefab/Wall 0"/>
+  <neighbor left="Assets/Prefab/Wall 0" right="Assets/Prefab/Tower 2"/>
+  <neighbor left="Assets/Prefab/Tower 3" right="Assets/Prefab/Wall 0"/>
+  <neighbor left="Assets/Prefab/Wall 2" right="Assets/Prefab/Wall 1 2"/>
+  <neighbor left="Assets/Prefab/Wall 0" right="Assets/Prefab/Wall 1 0"/>
+  <neighbor left="Assets/Prefab/Wall 1 2" right="Assets/Prefab/Wall 2"/>
+  <neighbor left="Assets/Prefab/Wall 1 0" right="Assets/Prefab/Wall 0"/>
+  <neighbor left="Assets/Prefab/Wall 2" right="Assets/Prefab/Tower 0"/>
+  <neighbor left="Assets/Prefab/Wall 0" right="Assets/Prefab/Tower 2"/>
+  <neighbor left="Assets/Prefab/Tower 3" right="Assets/Prefab/Wall 2"/>
+  <neighbor left="Assets/Prefab/Wall 2" right="Assets/Prefab/Wall 1 2"/>
+  <neighbor left="Assets/Prefab/Wall 1 2" right="Assets/Prefab/Wall 2"/>
+  <neighbor left="Assets/Prefab/Wall 2" right="Assets/Prefab/Tower 1"/>
+	</neighbors>
+</set>
