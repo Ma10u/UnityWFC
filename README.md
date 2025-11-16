@@ -106,7 +106,7 @@ Le projet propose de modifier un château et de se promener entre ses remparts. 
 J'ai pu apprendre à utiliser l'algorithme WFC qui a des applications très intéressantes.
 
 ## **Ce que nous ferions différemment :**
-La regénération d'un chunk peut avoir du mal à se résoudre, il faut des fois la relancer plusieurs fois avant d'avoir un résultat. Aussi il peut aussi arriver que la partie régénérée ne s'adapte pas bien à ce qui existe déjà, une modification du code plus poussée aurait peut-être permis de régler ces problèmes.  
+La regénération d'un chunk peut avoir du mal à se résoudre, il faut des fois la relancer plusieurs fois avant d'avoir un résultat. Aussi il peut aussi arriver que la partie regénérée ne s'adapte pas bien à ce qui existe déjà, une modification du code plus poussée aurait peut-être permis de régler ces problèmes.  
 Les meshs des murs sont ouverts sur les côtés, il faudrait les refaire.
 
 ## **Lien vers le projet Unity / dépôt :**
