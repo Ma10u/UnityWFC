@@ -53,7 +53,7 @@ Choix du thème
 ## **Travail réalisé :**
 Choix du thème, tuning des paramètres de génération afin d'avoir un rendu cohérent
 ## **Résultats / captures :**
-![alt text](mardi-1.png)
+![alt text](Mardi.png)
 
 ## **Problèmes rencontrés :**
 
@@ -72,7 +72,7 @@ Choix du thème, tuning des paramètres de génération afin d'avoir un rendu co
 ## **Travail réalisé :**
 Integration de la VR, et d'un panneau permettant de modifier chaque zone du château en jeu
 ## **Résultats / captures :**
-![alt text](Mercredi-1.png)
+![alt text](Mercredi.png)
 
 ## **Problèmes rencontrés :**
 Lors de la regénération les zones auront différentes seed et donc ne se connecteront pas forcément bien
@@ -99,15 +99,16 @@ Solutions essayées n'ont pas marché, recherche sur comment implémenter une g�
 ### 🎤 Vendredi après-midi – Présentation finale
 
 ## **Résumé du projet :**
+Le projet propose de modifier un château et de se promener entre ses remparts. La génération du château et des parties modifiées se fait de façon procédurale avec l'algorithme WFC.
+![alt text](Final.png)
 
 ## **Ce que nous avons appris :**
+J'ai pu apprendre à utiliser l'algorithme WFC qui a des applications très intéressantes.
 
 ## **Ce que nous ferions différemment :**
+La regénération d'un chunk peut avoir du mal à se résoudre, il faut des fois la relancer plusieurs fois avant d'avoir un résultat. Aussi il peut aussi arriver que la partie régénérée ne s'adapte pas bien à ce qui existe déjà, une modification du code plus poussée aurait peut-être permis de régler ces problèmes.  
+Les meshs des murs sont ouverts sur les côtés, il faudrait les refaire.
 
 ## **Lien vers le projet Unity / dépôt :**
-
+https://github.com/Ma10u/UnityWFC
 ---
-
-## 💬 Notes et réflexions libres
-
-(Espace pour idées, croquis, remarques sur le WFC, les interactions, ou l’expérience utilisateur)
